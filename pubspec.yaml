@@ -33,17 +33,15 @@ dependencies:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
+  #   flutter_svg: ^2.0.11
+  #   date_time_picker: ^2.1.0
+  #   flutter_time_picker_spinner: ^2.0.0
   cupertino_icons: ^1.0.8
-  flutter_svg: ^2.0.11
   carousel_slider: ^5.0.0
   popup_card: ^0.1.0
   get: ^4.6.6
-  date_time_picker: ^2.1.0
-  flutter_time_picker_spinner: ^2.0.0
   dartz: ^0.10.1
   http: ^1.2.2
-  flutter_screenutil: ^5.9.3
-  responsive_framework: ^1.5.1
 
 dev_dependencies:
   flutter_test:
