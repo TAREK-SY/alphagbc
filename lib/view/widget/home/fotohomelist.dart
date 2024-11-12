@@ -43,7 +43,7 @@ class _FotohomelistState extends State<Fotohomelist> {
                     children: [
                       Image.asset(
                         imagePath,
-                        fit: BoxFit.cover,
+                        fit: BoxFit.fill,
                       ),
                       Container(
                         color: Colors.black.withOpacity(0.4), // طبقة شفافة
